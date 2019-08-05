@@ -25,6 +25,6 @@ if no such element exist which repeats for 4 consecutive times then return / pri
 
 And we had to code from scratch in Infyq examination right from taking input to delivering correct answer unfotunately I was not able to do in given time there.
 
-I had recently added code for traversing in diagonal direction please code for complete solution!!
+I had recently added code for traversing in diagonal direction please refer code for complete solution!!
 
 
