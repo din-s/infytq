@@ -24,6 +24,7 @@ thus we have to return / print the element which is minimum amongst {0, 1, 2, 5,
 if no such element exist which repeats for 4 consecutive times then return / print answer = -1
 
 And we had to code from scratch in Infyq examination right from taking input to delivering correct answer unfotunately I was not able to do in given time there.
-So I tried for traversing in horizontal and vertical direction and I am working to search element in diagonal direction as well, so to keep this version safe I had used this repository!!!
 
-peek in code if you want the answer so far (horizontal + vertical)!
+I had recently added code for traversing in diagonal direction please code for complete solution!!
+
+
